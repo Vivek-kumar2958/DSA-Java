@@ -1,6 +1,6 @@
 package Arrays;
 
-public class LC_Singleelement {class Solution {
+public class LC_540_SingleElementInSortedArray {class Solution {
     public int singleNonDuplicate(int[] nums) {
         int n=0;
         for(int i=0;i<nums.length;i++){
