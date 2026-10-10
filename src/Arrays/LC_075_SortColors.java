@@ -1,6 +1,6 @@
 package Arrays;
 
-public class LC_75_SortColors {
+public class LC_075_SortColors {
     public void sortColors(int[] nums) {
         int count=0;
         int count1=0;

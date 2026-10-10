@@ -1,6 +1,6 @@
 package Arrays;
 
-public class LC_34_FindFirstandLastPositionElementInSortedArray {
+public class LC_034_FindFirstandLastPositionElementInSortedArray {
     public int[] searchRange(int[] nums, int target) {
         int a=-1;
         int b=-1;

@@ -1,6 +1,6 @@
 package Arrays;
 
-public class LC_41_FirstMissingPositive {
+public class LC_041_FirstMissingPositive {
     public int firstMissingPositive(int[] nums) {
         long []ht=new long[nums.length+1];
         for(int i=0;i<nums.length;i++){

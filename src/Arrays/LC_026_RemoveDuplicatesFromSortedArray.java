@@ -1,6 +1,6 @@
 package Arrays;
 
-public class LC_26_RemoveDuplicatesFromSortedArray {
+public class LC_026_RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
         // Set<Integer> t=new TreeSet<>();
 

@@ -1,6 +1,6 @@
 package Arrays;
 import java.util.*;
-public class LC_4_Median_of_Two_Sorted_Arrays {
+public class LC_04_Median_of_Two_Sorted_Arrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // int [] ans=new int[nums1.length+nums2.length];
         ArrayList<Integer>al=new ArrayList<>();
