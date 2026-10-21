@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class LC_19_RemoveNthNodeFromEndofList {
+public class LC_019_RemoveNthNodeFromEndofList {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode dummy = new ListNode(0);
         dummy.next=head;
