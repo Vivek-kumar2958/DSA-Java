@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class LC_61_RotateList {
+public class LC_061_RotateList {
     public ListNode rotateRight(ListNode head, int k) {
         if(head==null)return null;
         if(head.next==null)return head;
