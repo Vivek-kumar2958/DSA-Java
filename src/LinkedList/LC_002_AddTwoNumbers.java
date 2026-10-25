@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class LC_2_AddTwoNumbers {
+public class LC_002_AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode d1=l1;
         ListNode d2=l2;

@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class LC_21_MergeTwoSortedLists {
+public class LC_021_MergeTwoSortedLists {
     static ListNode temp1=null;
     static ListNode temp2=null;
     static ListNode merge(){
