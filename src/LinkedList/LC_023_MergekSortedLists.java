@@ -1,5 +1,5 @@
 package LinkedList;
-
+import java.util.*;
 public class LC_023_MergekSortedLists {
     public ListNode mergeKLists(ListNode[] lists) {
         ListNode curr=null;
